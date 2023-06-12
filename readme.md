@@ -1,4 +1,8 @@
-# Build
+# Description
+
+Read more on my [blog](https://tpapad.com)
+
+## Build
 
 ```bash
 cargo build --profile static
