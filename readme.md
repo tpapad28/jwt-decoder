@@ -1,6 +1,6 @@
 # Description
 
-Read more on my [blog]([https://tpapad.com](https://tpapad.com/posts/simple-jwt-parser-written-in-rust/))
+Read more on my [blog](https://tpapad.com/posts/simple-jwt-parser-written-in-rust/)
 
 ## Build
 
